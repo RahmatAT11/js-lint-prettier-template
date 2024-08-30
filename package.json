@@ -1,0 +1,19 @@
+{
+  "name": "js-lint-prettier-template",
+  "version": "1.0.0",
+  "description": "This is a template repository for js lint and prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Rahmat Alrafi Trikada (ralrafi12@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "eslint": "^9.9.1",
+    "globals": "^15.9.0"
+  }
+}
